@@ -1,16 +1,16 @@
- 
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Samuel Izabayo 👋
 
-### Full-Stack Developer | Software Engineer | Tech Enthusiast
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Software+Engineer;Backend+%26+Frontend+Developer;Tech+Enthusiast;Building+Solutions+That+Matter" alt="Typing SVG" />
+</a>
+
+<br/>
 
 I build modern, responsive, and scalable web applications that solve real-world problems.
 
 Passionate about software development, backend engineering, database management, and exploring innovative technologies.
-
-[![GitHub followers](https://img.shields.io/github/followers/SIzabayo?style=for-the-badge&logo=github&color=181717)](https://github.com/SIzabayo)
-![Profile Views](https://komarev.com/ghpvc/?username=SIzabayo&style=for-the-badge&color=blueviolet)
 
 </div>
 
