@@ -31,60 +31,32 @@ Passionate about software development, backend engineering, database management,
 
 ## 🧰 Tech Stack & Tools
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="45" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="40" />
 
 ### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python" height="45" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python" height="40" />
+
+</td>
+<td width="50%" valign="top">
 
 ### Database & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,docker,git,github" height="45" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=mysql,docker" height="40" />
 
 ### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,linux" height="45" />
-</p>
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" height="40" />
 
-## 💼 Featured Projects
-
-### 🐔 PoultrySmart
-**Smart Market for Poultry Products Using Machine Learning Technologies**
-
-A web-based marketplace connecting poultry product buyers and sellers, featuring intelligent product recommendations and machine learning-powered chatbot functionality.
-
-- React
-- Node.js
-- Python / FastAPI
-- MySQL
-- Machine Learning
-
-🔗 [Live Demo](https://25rp18176.netlify.app/)
-
-### 📝 iLove Exams
-An online examination practice platform designed to help users prepare for driving theory examinations and other academic assessments.
-
-- React
-- Node.js
-- MySQL
-- Docker
-
-### 🛒 Inzoozi
-An online platform providing phone-related products and services.
-
-🔗 [Visit Website](https://inzoozi.com/)
-
-### 💚 Umutuzo
-A mental health support platform designed to help Rwandans access mental health resources and connect with therapists.
-
-🔗 [Live Demo](https://umutuzo.netlify.app/)
+</td>
+</tr>
+</table>
 
 ---
 
@@ -118,12 +90,8 @@ A mental health support platform designed to help Rwandans access mental health 
 
 <div align="center">
 
-<a href="https://github.com/SIzabayo">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://inzoozi.com/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://wa.me/250781599881">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <br/><br/>
